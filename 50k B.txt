@@ -1,0 +1,12 @@
+Constructor called
+Program Start at: Mon Jul 29 17:01:22 2024
+
+Argv 1 = human.txt
+Argv 2 = 50000
+Argv 3 = B
+Successful read query completion
+Number of nodes: 1314834
+Number of hits : 10849
+Program End at: Mon Jul 29 17:05:21 2024
+
+Deconstructor called
